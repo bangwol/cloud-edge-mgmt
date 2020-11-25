@@ -13,19 +13,21 @@
   * maven 플러그인 설치 되어 있어야 함 
 
 ## Maven dependency 추가
-*  pom.xml 에 Maven dependency를 추가한 후 해당 Library를 이용하기 위해서는 추가
-*  Maven > importing 에서 Import Maven projects automatically 체크를 통한 자동 update
+*  Maven dependency를 추가를 위해 pom.xml 에 해당 Library를 추가 
+*  프로젝트 생성 시 Maven > importing 에서 Import Maven projects automatically 체크를 통한 자동 update
   
 ## Reimport All maven Projects
 ### maven update 
-intelij 실행 후  , Maven update
+intelij 실행 후  , 오른쪽 Maven 선택
 * root 선택
   * clean -> complie -> install 순으로 update (권장)
   
-## Generate Sources and Update Folders For All Projects 후  Application 실행 
+## Generate Sources and Update Folders For All Projects 
+* 각 application build 후 오류 확인
+
 ### Application 컴파일
- application 각각 실행 
-* ApiOpenstackApplication 
-* ServiceRegistryApplication
-* GatewayApplication
-* ClientApplication
+spring boot application 각각 실행 
+* ApiOpenstackApplication 실행
+* ServiceRegistryApplication 실행
+* GatewayApplication 실행 
+* ClientApplication 실행 
