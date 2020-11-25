@@ -13,8 +13,8 @@
   * maven 플러그인 설치 되어 있어야 함 
 
 ## Maven dependency 추가
-  pom.xml 에 Maven dependency를 추가한 후 해당 Library를 이용하기 위해서는 추가
-  Maven > importing 에서 Import Maven projects automatically 체크를 통한 자동 update
+*  pom.xml 에 Maven dependency를 추가한 후 해당 Library를 이용하기 위해서는 추가
+*  Maven > importing 에서 Import Maven projects automatically 체크를 통한 자동 update
   
 ## Reimport All maven Projects
 ### maven update 
