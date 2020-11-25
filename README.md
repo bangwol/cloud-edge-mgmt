@@ -22,9 +22,7 @@ intelij 실행 후  , Maven update
 * root 선택
   * clean -> complie -> install 순으로 update (권장)
   
-## Generate Sources and Update Folders For All Projects
-
-## Application 실행 
+## Generate Sources and Update Folders For All Projects 후  Application 실행 
 ### Application 컴파일
  application 각각 실행 
 * ApiOpenstackApplication 
