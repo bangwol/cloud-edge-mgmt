@@ -12,12 +12,12 @@
   * maven 플러그인 설치 되어 있어야 함 
   
 ## Reimport All Maven Projects
-## Generate Sources and Update Folders For All Projects
-
-## maven 구동
+### maven 구동
 intelij 실행 후  , Maven update
 * root 선택
   * clean -> complie -> install 순으로 update (권장)
+  
+## Generate Sources and Update Folders For All Projects
 
 ## Application 실행 
 ### Application 컴파일
