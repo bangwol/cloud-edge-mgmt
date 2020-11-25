@@ -26,7 +26,7 @@ intelij 실행 후 , 오른쪽 Maven 선택
 * 각 application build 후 에러 없는지 확인후 Aapplicatin 실행 
 
 ### Application 컴파일 및 실행 
-* spring boot application 각각 실행 
+spring boot application 각각 실행 
  * ApiOpenstackApplication 실행
  * ServiceRegistryApplication 실행
  * GatewayApplication 실행 
